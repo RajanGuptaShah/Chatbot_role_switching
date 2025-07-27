@@ -9,7 +9,7 @@ load_dotenv()
 co = cohere.Client(os.getenv("COHERE_API_KEY"))
 
 # Load roles from roles.json
-with open("roles.json", "r") as f:
+with open("prompt_engineering_project/roles.json", "r") as f:
     roles = json.load(f)
 
 # Streamlit UI
