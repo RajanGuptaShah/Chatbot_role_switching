@@ -60,6 +60,7 @@ Prompt modularization via JSON
 Rajan Kumar Gupta
 Final-Year B.Tech CSE Student | Class of 2026
 📍 Passionate about Prompt Engineering, LLMs, and Real-world AI Projects
-🔗 GitHub
-🔗 LinkedIn
+🔗 LinkedIn: www.linkedin.com/in/rajang1201
+
+
 
